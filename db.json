@@ -1,0 +1,95 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Hotel Resort",
+        "description": "Hotel de Lujo",
+        "image": "/img/hotel1.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Hotel Elegante",
+        "description": "Un lugar elegante para una estancia relajante",
+        "image": "/img/hotel2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Hotel de Playa",
+        "description": "Disfruta del sol y la playa en nuestro hotel",
+        "image": "/img/hotel3.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Hotel Montaña",
+        "description": "Escápate a la montaña y alójate en nuestro acogedor hotel",
+        "image": "/img/hotel4.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Hotel Histórico",
+        "description": "Descubre la historia en nuestro hotel centenario",
+        "image": "/img/hotel5.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Hotel Spa",
+        "description": "Relájate y rejuvenece en nuestro spa de lujo",
+        "image": "/img/hotel6.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Hotel de Negocios",
+        "description": "Perfecto para viajes de trabajo y reuniones",
+        "image": "/img/hotel7.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Hotel Familiar",
+        "description": "Hospédate en un ambiente familiar y acogedor",
+        "image": "/img/hotel8.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "Hotel Boutique",
+        "description": "Una experiencia única en nuestro hotel boutique",
+        "image": "/img/hotel9.jpeg"
+      },
+      {
+        "id": 10,
+        "name": "Hotel Moderno",
+        "description": "Diseño moderno y comodidades de vanguardia",
+        "image": "/img/hotel10.jpeg"
+      },
+      {
+        "id": 11,
+        "name": "Hotel Rural",
+        "description": "Conéctate con la naturaleza en nuestro hotel rural",
+        "image": "/img/hotel11.jpeg"
+      },
+      {
+        "id": 12,
+        "name": "Hotel de Ciudad",
+        "description": "En el corazón de la ciudad, cerca de todo",
+        "image": "/img/hotel12.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "Hotel de Montaña",
+        "description": "Experimenta la belleza de las montañas en nuestro hotel",
+        "image": "/img/hotel13.jpeg"
+      },
+      {
+        "id": 14,
+        "name": "Hotel de Playa 2",
+        "description": "Otra opción fantástica para los amantes de la playa",
+        "image": "/img/hotel14.jpeg"
+      },
+      {
+        "id": 15,
+        "name": "Hotel con Vistas al Mar",
+        "description": "Disfruta de impresionantes vistas al mar desde tu habitación",
+        "image": "/img/hotel15.jpeg"
+      }
+    ]
+  }
+  
